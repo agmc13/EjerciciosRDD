@@ -1,0 +1,16 @@
+Gaston Alibert,oro,23
+Andre Auffray,plata,27
+Edgar Adams,bronce,22
+emile Fisseux,oro,19
+Robert Cloughen,plata,22
+Frederick Englehardt,bronce,21
+Hermann Glass,oro,22
+Michael Phepls,plata,24
+Irving Baxter,bronce,23
+Usain Bolt,oro,24
+Daria Pratt,plata,21
+Usain Bolt,bronce,24
+Robert Cloughen,oro,18
+Andre Auffray,bronce,31
+Edgar Adams,oro,26
+emile Fisseux,oro,23
